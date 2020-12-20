@@ -1,14 +1,17 @@
 [
   {
     "name" : "mobile",
-    "type" : "3c"
+    "type" : "3c",
+    "price:: 17000
   },
   {
     "name" : "notebook",
-    "type" : "3c"
+    "type" : "3c",
+    "price:: 27000
   },
   {
     "name" : "apple",
-    "type" : "Fruit"
+    "type" : "Fruit",
+    "price:: 50
   }
 ]
