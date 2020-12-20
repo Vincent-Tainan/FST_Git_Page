@@ -1,14 +1,14 @@
 [
   {
-    "name", "mobile"
+    "name", "mobile",
     "type", "3c"
   },
   {
-    "name", "notebook"
+    "name", "notebook",
     "type", "3c"
   },
   }
-    "name", "apple"
+    "name", "apple",
     "type". "Fruit"
   }
 ]
