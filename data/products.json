@@ -2,12 +2,12 @@
   {
     "name" : "mobile",
     "type" : "3c",
-    "price:: 17000
+    "price : 17000
   },
   {
     "name" : "notebook",
     "type" : "3c",
-    "price:: 27000
+    "price : 27000
   },
   {
     "name" : "apple",
