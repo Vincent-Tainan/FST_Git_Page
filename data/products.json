@@ -12,6 +12,6 @@
   {
     "name" : "apple",
     "type" : "Fruit",
-    "price:: 50
+    "price : 50
   }
 ]
